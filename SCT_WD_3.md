@@ -1,7 +1,4 @@
 
-Pravallika Reddy <pravallikadotcom2005@gmail.com>
-3:18 PM (40 minutes ago)
-to me
 
 <!DOCTYPE html>
 <html lang="en">
